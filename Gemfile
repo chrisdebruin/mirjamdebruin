@@ -1,4 +1,5 @@
-source :rubygems
+source "https://rubygems.org"
+ruby "2.4.3"
 
 gem 'rake', '0.9.2'
 gem 'sinatra', '~> 1.2.3'
